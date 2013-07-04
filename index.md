@@ -1,5 +1,8 @@
 <html>
-    <head></head>
+    <head>
+        {% include scripts.md %}
+        {% include styles.md %}
+    </head>
     <body>
         <header></header>
         <section>
