@@ -2,7 +2,10 @@
 title: Главная
 layout: default
 ---
-<ul>
+<p class="lead">
+Разные штуки от меня и интернетов.
+</p>
+<ul class="unstyled">
 {% for post in site.posts %}
     <li>{{ post.date | date: "%d.%m.%Y" }} — <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}

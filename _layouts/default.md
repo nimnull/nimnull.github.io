@@ -1,14 +1,17 @@
+<!DOCTYPE html>
 <html>
-    <head>
-        <title>{{ page.title }} &mdash; {{ site.blog_title }}</title>
-        {% include scripts.md %}
-        {% include styles.md %}
-    </head>
+    {% include header.md %}
     <body>
         <header></header>
         <section>
-            {{ content }}
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+                        {{ content }}
+                    </div>
+                </div>
+            </div>
         </section>
-        <footer>{% include footer.md %}</footer>
+        {% include footer.md %}
     </body>
 </html>
