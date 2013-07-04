@@ -3,7 +3,10 @@
     {% include header.md %}
     <body>
         <header>
-            <h1><small>{{ date | date: "%d.%m.%Y" }}</small> {{ title }}</h1>
+            <header>
+                {% include navigation.md %}
+                <h1><small>{{ date | date: "%d.%m.%Y" }}</small> {{ title }}</h1>
+            </header>
         </header>
         <section>
             <div class="container">

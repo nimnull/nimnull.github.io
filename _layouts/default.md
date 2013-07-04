@@ -2,7 +2,7 @@
 <html>
     {% include header.md %}
     <body>
-        <header></header>
+        <header>{% include navigation.md %}</header>
         <section>
             <div class="container">
                 <div class="row">
