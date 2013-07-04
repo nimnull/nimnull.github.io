@@ -2,6 +2,7 @@
 layout: post
 title: Кофе и музыка
 ---
+
 > Перенесено
 
 Моя есть большой любитель этого напитка, чем неоднократно троллил персонал во всякого рода кофейнях города Томска (в перспективе будут и другие города, о чем когда-нибудь напишу).
@@ -16,7 +17,8 @@ title: Кофе и музыка
 *   [Bob Marley – One cup of coffee](http://prostopleer.com/tracks/4400754XpTr)
 *   Ed Bassmaster – Coffee Coffee I like Coffee
 *   The Dandy Warhols – The Coffee And Tea Wrecks
-*   Dual Sessions – Black Coffee (а еще эту песню пели Patricia Kaas, Ella Fitzerald, Nana Mouskouri, Julie London)
+*   Dual Sessions – Black Coffee
+    (а еще эту песню пели Patricia Kaas, Ella Fitzerald, Nana Mouskouri, Julie London)
 *   МультFильмы – Кофе
 *   Люмен – Кофе
 *   М. Хлебникова – Какао
