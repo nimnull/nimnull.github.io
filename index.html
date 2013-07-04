@@ -1,21 +1,9 @@
 ---
 title: Главная
+layout: default
 ---
-<html>
-    <head>
-        <title>{{ page.title }} &mdash; {{ site.blog_title }}</title>
-        {% include scripts.md %}
-        {% include styles.md %}
-    </head>
-    <body>
-        <header></header>
-        <section>
-            <ul>
-            {% for post in site.posts %}
-                <li>{{ post.date | date: "%d.%m.%Y" }} — <a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
-            </ul>
-        </section>
-        <footer></footer>
-    </body>
-</html>
+<ul>
+{% for post in site.posts %}
+    <li>{{ post.date | date: "%d.%m.%Y" }} — <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
