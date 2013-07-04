@@ -8,12 +8,12 @@ title: Кофе и музыка
 
 Пришла в голову идея вспомнить побольше песен с упоминанием кофе. Спасибо @zhuuki за первую помощь .) Как известно – кофе я пью давно, много и вкусно .) Итак:
 
-*   <a href="http://prostopleer.com/tracks/21771041QRm">Counting Crows – Colorblind</a>
-*   <a href="http://prostopleer.com/tracks/405246KvvX">Blur – Coffe &amp; TV</a>
-*   <a href="http://prostopleer.com/tracks/4867105beAU">The White Stripes – One More Cup of Coffee</a>
+*   [Counting Crows – Colorblind][http://prostopleer.com/tracks/21771041QRm]
+*   [Blur – Coffe &amp; TV][http://prostopleer.com/tracks/405246KvvX]
+*   [The White Stripes – One More Cup of Coffee][http://prostopleer.com/tracks/4867105beAU]
 *   Johann Sebastian Bach – Kaffeekantate
-*   <a href="http://prostopleer.com/tracks/360758QxD6">Bob Dylan – One More Cup of Coffee</a>
-*   <a href="http://prostopleer.com/tracks/4400754XpTr">Bob Marley – One cup of coffee</a>
+*   [Bob Dylan – One More Cup of Coffee][http://prostopleer.com/tracks/360758QxD6]
+*   [Bob Marley – One cup of coffee][http://prostopleer.com/tracks/4400754XpTr]
 *   Ed Bassmaster – Coffee Coffee I like Coffee
 *   The Dandy Warhols – The Coffee And Tea Wrecks
 *   Dual Sessions – Black Coffee (а еще эту песню пели Patricia Kaas, Ella Fitzerald, Nana Mouskouri, Julie London)
@@ -21,7 +21,7 @@ title: Кофе и музыка
 *   Люмен – Кофе
 *   М. Хлебникова – Какао
 *   Сегодня Ночью – Сигареты и Кофе
-*   <a href="http://prostopleer.com/tracks/4560131ZhA6">Гражданская оборона – Небо Как Кофе</a>
+*   [Гражданская оборона – Небо Как Кофе][http://prostopleer.com/tracks/4560131ZhA6]
     (То, что у ГрОб-а есть нечто нужное, даже ввело меня в легкий ступор, ждем Сектор Газа и Красную Плесень)
 
 Чуть позже попробую разыскать ссылки на песни.
