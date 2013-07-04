@@ -10,7 +10,11 @@ title: Blogging Like a Hacker
     <body>
         <header></header>
         <section>
-            [Name of Link]({% post_url 2013-07-05-sample-post %})
+            <ul>
+            {% for post in site.posts %}
+                <li>{{ post.date | date: "%d.%m.%Y" }} — <a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
         </section>
         <footer></footer>
     </body>
