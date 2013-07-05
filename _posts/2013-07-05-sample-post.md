@@ -3,6 +3,12 @@ layout: post
 title: Blogging Like a Hacker
 ---
 
-{% highlight py %}
-import this
-{% endhighlight %}
+Собственно, jekyll показал себя довольно неплохой штукой в связке с github pages для того,
+чтобы переехать сюда, но меня слегка напрягает его потроха, в частности дуболомная связка
+{% raw %}
+maruku и liquid. Какого хрена парсер лезет со своим маркдауном внутрь `{% highlight %}` тега?
+Да и внутрь `{% raw %}` ему делать тоже нечего.
+{% endraw %}
+
+А в вообще Liquid очень напомнил поведение django-templating
+
