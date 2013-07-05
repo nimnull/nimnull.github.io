@@ -4,7 +4,9 @@
     <body>
         <header>
             {% include navigation.md %}
-            <h1><small>{{ page.date | date: "%d.%m.%Y" }}</small> {{ page.title }}</h1>
+            <div class="container">
+                <h3><small>{{ page.date | date: "%d.%m.%Y" }}</small> {{ page.title }}</h3>
+            </div>
         </header>
         <section>
             <div class="container">
