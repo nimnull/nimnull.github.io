@@ -48,7 +48,7 @@ def x_accel_gridfs(file_field):
 Для nginx конфигурация выглядит еще проще:
 
 <div>
-{% highlight nginx }
+{% highlight nginx %}
 location /img/ {
     internal;
     gridfs fevent;
