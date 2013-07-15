@@ -35,8 +35,8 @@ def x_accel_gridfs(file_field):
 
     rv.set_etag('flamaster-{}-{}-{}'.format(
         file_field.uploadDate,
-        file_field.image.length,
-        file_field.image.grid_id
+        file_field.length,
+        file_field.grid_id
     ))
 
     return rv
