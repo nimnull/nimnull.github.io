@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Falsk, nginx, X-Accel-Redirect, GridFs
+title: Flask, nginx, X-Accel-Redirect, GridFs
 ---
 
 Так как наш сервис хранит данные в GridFS в качестве распределенного общего
