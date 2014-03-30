@@ -14,3 +14,5 @@ title: Пара ночных фраз в новом году
 
 * [mctop](https://github.com/dogweather/mctop) — штука для мониторинга memcached показывающая статистику инстанса по образу привычной утилиты top.
 * [pika](https://github.com/pika/pika/) — имплементация клиента amqp на чистом питоне. Интересна использованием ioloop и callback-style подходом в описании хендлеров сообщений. При использовании неблокирующего соединения обещают колоссальный прирост производительности.
+* [django-cacheops](https://github.com/Suor/django-cacheops) — A slick app that supports automatic or manual queryset caching and automatic granular event-driven invalidation.
+
